@@ -1,2 +1,2 @@
-# PrepCurse-Henry02
-este es el segundo repositorio del modulo2 del prepcurse de Henry
+
+ESTE DOCUMENTO ES UNA PRUEBA DE COMO CREAAR UN REPOSITORIO Y CLONARLO DESDE GUITHUB A MI COMPUTADORA.
